@@ -10,4 +10,6 @@ int main()
 
     cout << food << "\n";  // Outputs Pizza
     cout << meal << "\n";  // Outputs Pizza
+
+    cout << &food << "\n"; //outputs memory address
 }
